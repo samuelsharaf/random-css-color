@@ -1,0 +1,18 @@
+{
+  "formation": {
+    "web": {
+      "quantity": 0,
+      "size": "Private-S"
+    },
+    "service": {
+      "quantity": 1,
+      "size": "Private-S"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
+
